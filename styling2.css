@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.banner{
+   
+    background-image: linear-gradient(rgba(235, 231, 231, 0.628),rgba(225, 248, 237, 0.623)), url(hmm.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+
+ 
+
+}
+.content h1{
+    font-size: 55px;
+    font-style: bold;
+    font-family: cursive;
+    text-align: center;
+    color : #009688;
+    background: transparent;
+}
+.content p{
+    font-size: 25px;
+    font-family: cursive;
+    color: #009688;
+    text-align: start;
+    background: transparent;
+    
+}
